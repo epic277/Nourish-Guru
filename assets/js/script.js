@@ -1,3 +1,5 @@
+console.log("Website created by Navjyoth Redkar © 2025");
+
 const hamburger = document.getElementById("hamburger");
 const navLinks = document.getElementById("navLinks");
 
